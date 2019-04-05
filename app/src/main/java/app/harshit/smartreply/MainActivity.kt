@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         rvMessages.layoutManager = LinearLayoutManager(this)
         rvMessages.adapter = messageAdapter
 
-        rvSuggestions.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
+        rvSuggestions.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, true)
         rvSuggestions.adapter = suggestionAdapter
 
         floatingActionButton.setOnClickListener {

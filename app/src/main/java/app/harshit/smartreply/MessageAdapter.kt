@@ -13,13 +13,13 @@ class MessageAdapter(private val messages: List<FirebaseTextMessage>) :
 
     override fun onCreateViewHolder(container: ViewGroup, itemType: Int): RecyclerView.ViewHolder {
         val inflater = LayoutInflater.from(container.context)
-        return SentHolder(inflater.inflate(R.layout.item_messgae_sent, container, false))
+        return SentHolder(inflater.inflate(R.layout.item_messgae_received, container, false))
     }
 
     override fun getItemCount() = messages.size
 
     override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) {
-        holder.itemView.tvSent.text = messages[position].zzmy()
+        holder.itemView.tvReceived.text = messages[position].zzmy()
     }
 
     inner class SentHolder(itemView: View) : RecyclerView.ViewHolder(itemView)
