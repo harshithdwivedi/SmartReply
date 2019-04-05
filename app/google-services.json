@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "948655078679",
+    "firebase_url": "https://mlkit-677d1.firebaseio.com",
+    "project_id": "mlkit-677d1",
+    "storage_bucket": "mlkit-677d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948655078679:android:df9f793f03112667",
+        "android_client_info": {
+          "package_name": "app.harshit.pokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948655078679-qlpru2b2vsqpogpurigo946n2hj3l5n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.harshit.pokedex",
+            "certificate_hash": "36a155889435b9499a0b97fd8e85a3bb840d5e16"
+          }
+        },
+        {
+          "client_id": "948655078679-jgif1m055i4jqa57bb3jkpr6h0om86m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.harshit.pokedex",
+            "certificate_hash": "34ab3a92ebb7aa472d4b22fb754c01303e5f8b2f"
+          }
+        },
+        {
+          "client_id": "948655078679-5so8g5rjru4frdtskt1bq4lk9kps1ndg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.harshit.pokedex",
+            "certificate_hash": "97f04fd325cc2fb079c74b516089d0a5009f2504"
+          }
+        },
+        {
+          "client_id": "948655078679-jfv47jalf9o3cq8mhorj1gtf1b494rr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.harshit.pokedex",
+            "certificate_hash": "a37c45324b9643a791cf520fdb84eefb3556342a"
+          }
+        },
+        {
+          "client_id": "948655078679-cbc4j1s3pdrirtu1rm4f870r4ibijgdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.harshit.pokedex",
+            "certificate_hash": "8dc2654a57fcfd0d0b811f827853988ec74914d5"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBki-tToritqrkk0_ZjwukWTk8_-QWXKo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948655078679-9a3pn01sjfoi7lcfbbgq28q85t6t786i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948655078679:android:44fca0db9faf15b4",
+        "android_client_info": {
+          "package_name": "app.harshit.smartreply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948655078679-lar53ppq3aka8jlu3j71jkbv1lstng6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.harshit.smartreply",
+            "certificate_hash": "d53d5b5e76966c884f72ca8a428997a7ad026aaf"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBki-tToritqrkk0_ZjwukWTk8_-QWXKo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948655078679-9a3pn01sjfoi7lcfbbgq28q85t6t786i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948655078679:android:9f30892d2780bd14",
+        "android_client_info": {
+          "package_name": "io.github.the_dagger.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948655078679-ps5nj5h7votpaogk923sbrih6pgdonmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.the_dagger.mlkit",
+            "certificate_hash": "36a155889435b9499a0b97fd8e85a3bb840d5e16"
+          }
+        },
+        {
+          "client_id": "948655078679-kulrfiin04tvm77r420vu7m1kmjj15f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.the_dagger.mlkit",
+            "certificate_hash": "a37c45324b9643a791cf520fdb84eefb3556342a"
+          }
+        },
+        {
+          "client_id": "948655078679-6l6dll59lam7l7csgvbrono1g86b97u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.the_dagger.mlkit",
+            "certificate_hash": "384e57709bae5028a478526438c95c4e38c9936e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBki-tToritqrkk0_ZjwukWTk8_-QWXKo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948655078679-9a3pn01sjfoi7lcfbbgq28q85t6t786i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
