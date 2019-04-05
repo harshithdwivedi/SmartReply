@@ -27,12 +27,15 @@ class MainActivity : AppCompatActivity() {
 
         floatingActionButton.setOnClickListener {
 
+            //The createForRemoteUser() method is to be used when the message was not sent by the user
+            val message = FirebaseTextMessage.createForRemoteUser(
+                editText.text.toString(), //Content of the message
+                System.currentTimeMillis(), //Time at which the message was sent
+                "uid_of_friend" //This has to be unique for every other person involved in the chat who is not your user
+            )
+
             messages.add(
-                FirebaseTextMessage.createForRemoteUser(
-                    editText.text.toString(),
-                    System.currentTimeMillis(),
-                    "friend"
-                )
+                message
             )
 
             messageAdapter.notifyItemInserted(messages.size)
